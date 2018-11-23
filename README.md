@@ -101,11 +101,11 @@ We can see the result in below table:
 | Test Accuracy            | 0.9138              | 0.9159          |
 | Test Loss                | 0.3143              | 0.3164          | 
 
-### Experimentation with network configuration
+### Experimentation with network configuration (c)
 
 
 
-|                          |32 Filter + 2 Layers  |64 Filter + 2 Layers |
+|                          |32 Filter + 2 Layers   |64 Filter + 2 Layers |
 |--------------------------|-----------------------|--------------------|
 | Accuracy                 | 0.9663                | 0.9675             |
 | Loss                     | 0.0891                | 0.0863             |
@@ -114,4 +114,9 @@ We can see the result in below table:
 | Test Accuracy            | 0.9138                | 0.9159             |
 | Test Loss                | 0.3143                | 0.3164             |
 
-###
+### Experimentation with gradient optimization techniques (d)
+
+### Experimentation with activation functions (e)
+
+### Experimentation with regularization techniques (f)
+
